@@ -1,8 +1,7 @@
-# Capstone Project – Imperial College London AI & Machine Learning Certificate
+# Capstone Project
 
 ## Overview  
-This repository contains my capstone project for the Imperial College London AI & Machine Learning Certificate.  
-The aim is to design, implement, and evaluate an ML solution that demonstrates not only technical proficiency but also practical impact.
+This repository contains my capstone project. The aim is to design, implement, and evaluate an ML solution that demonstrates not only technical proficiency but also practical impact.
 
 ## Goals  
 - Define and frame a real-world problem in the context of AI/ML.  
